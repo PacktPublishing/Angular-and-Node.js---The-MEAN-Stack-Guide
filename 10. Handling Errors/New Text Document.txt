@@ -1,0 +1,8 @@
+Section Resources
+Section 10, Lecture 127
+Angular Material Dialog Docs: https://material.angular.io/components/dialog/overview
+Resources for this lecture
+errors-01-added-dialog.zip
+errors-02-finished-main-implementation.zip
+errors-03-alternative-approach.zip
+Show more (1)

@@ -1,0 +1,6 @@
+Section Resources
+Section 12, Lecture 144
+AWS Elastic Beanstalk Documentation: https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html
+Resources for this lecture
+deployment-01-two-apps.zip
+deployment-02-one-app.zip

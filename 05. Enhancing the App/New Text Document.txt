@@ -1,0 +1,7 @@
+Possible Error
+Section 5, Lecture 64
+Important: You might be getting an error ("can't find property title") when you reload the Edit page after/ during the next lecture.
+
+This is totally normal and will be fixed in lecture 65 :-)
+
+Max

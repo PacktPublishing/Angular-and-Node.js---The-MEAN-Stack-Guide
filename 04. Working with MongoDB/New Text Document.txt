@@ -1,0 +1,5 @@
+Using MongoDB Atlas & IP Whitelist
+Section 4, Lecture 48
+By selecting the "Free Sandbox" in the previous video, we're using MongoDB Atlas (https://www.mongodb.com/cloud/atlas) in this course - a hosted MongoDB cluster.
+
+There, we added our local IP to the "IP Whitelist". One important note on that: If you're away from the project for a couple of days (or maybe even after one day), you might've received a new local IP by your internet provider. Hence you should update that "IP Whitelist" if you're facing any connection issues!

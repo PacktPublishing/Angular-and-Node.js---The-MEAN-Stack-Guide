@@ -1,0 +1,7 @@
+Section Resources
+Section 9, Lecture 119
+Mongoose Relations (and how you could combine them when fetching data): http://mongoosejs.com/docs/populate.html 
+Resources for this lecture
+authorization-01-added-user-model.zip
+authorization-02-added-server-side-authorization.zip
+authorization-03-finished.zip

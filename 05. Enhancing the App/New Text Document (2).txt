@@ -1,0 +1,7 @@
+Section Resources
+Section 5, Lecture 70
+Angular Material Docs: https://material.angular.io/components/categories
+Resources for this lecture
+enhancing-01-added-routing.zip
+enhancing-02-added-update-functionality.zip
+enhancing-03-finished.zip

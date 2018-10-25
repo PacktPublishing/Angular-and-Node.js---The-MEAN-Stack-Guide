@@ -1,0 +1,17 @@
+MUST READ: Angular CLI - Latest Version
+Section 1, Lecture 5
+Important: In the next lecture, we'll use a tool called the "Angular CLI" to create our Angular project.
+
+With the latest version, this tool will ask you two questions:
+
+1) Do you want to use the Angular Router?
+
+2) Which CSS pre-processor do you want to use?
+
+Simply hit ENTER twice and confirm the default (without entering any value).
+
+The defaults (which we will use therefore) are:
+
+1) No (No router for now, we'll add it later)
+
+2) CSS

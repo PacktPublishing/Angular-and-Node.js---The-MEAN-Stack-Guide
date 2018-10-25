@@ -1,0 +1,8 @@
+Section Resources
+Section 11, Lecture 138
+More on Angular Modules: https://angular.io/guide/ngmodules
+Understanding Environment Variables: https://www.twilio.com/blog/2017/08/working-with-environment-variables-in-node-js.html
+Resources for this lecture
+optimizations-01-added-controllers-changed-middleware.zip
+optimizations-02-split-angular-into-modules.zip
+optimizations-03-finished.zip
